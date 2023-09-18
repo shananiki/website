@@ -34,7 +34,7 @@ body {
 }
 
 
-.left-box {
+.leftBox {
 	font-family: "TFTWindows";
 	width: 400px;
 	height: 200px;
@@ -45,7 +45,18 @@ body {
 	margin: 2px;
 }
 
-.middle-box {
+.middleBox {
+	font-family: "TFTWindows";
+	width: 800px;
+	height: 200px;
+	background-color: #000000d3;
+	border: 2px solid white;
+	color: white;
+	padding: 10px 15px;
+	margin: 2px;
+}
+
+.rightBox {
 	font-family: "TFTWindows";
 	width: 400px;
 	height: 200px;
